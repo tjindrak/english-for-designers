@@ -1,0 +1,134 @@
+:root {
+    --dark-grey: #eeebeb;
+    --bg-color: #ffffff;
+    --font-color: rgb(5, 5, 5);
+    --theme-color: #006b38;
+    --code-yellow: rgb(228, 175, 78);
+    --code-lightgrey: rgb(126, 125, 125);
+    --code-grey: rgb(68, 68, 68);
+    --code-white: #fff;
+    --white: #fff;
+    --black: #dbdada;
+    --code-blue: #0c3269;
+    --alert-warning: #ca2e2e;
+    --alert-succes: #4BB543;
+    --alert-basic: #3DB2FF;
+}
+
+[data-theme="dark"] {
+    --dark-grey: #191919;
+    --black: #060606;
+    --bg-color: #060606;
+    --theme-color: #006B38FF;
+    --font-color: #ffff;
+    --code-yellow: rgb(235, 171, 53);
+    --code-lightgrey: rgb(204, 204, 204);
+    --code-grey: rgb(126, 125, 125);
+    --code-white: #fff;
+    --code-blue: #33ccff;
+}
+.theme-switch-wrapper {
+    display: none;
+    align-items: center;
+    position: absolute;
+    top: 100px;
+    right: 80px;
+}
+
+.theme-switch-wrapper span {
+    margin-left: 10px;
+    font-size: 1rem;
+}
+
+.theme-switch {
+    display: inline-block;
+    height: 34px;
+    position: relative;
+    width: 60px;
+}
+
+.theme-switch input {
+    display: block;
+}
+header {
+    background-color: var(--bg-color);
+}
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p {
+    margin: 1em 20em 1em 0em;
+    font-size: 16px;
+    max-width: 700px;
+    font-weight: lighter;
+}
+h2 {
+    text-transform: uppercase;
+    margin-left: 0em;
+    margin-bottom: 1em;
+    font-size: 22px;
+    color: var(--code-blue);
+}
+.first {
+    margin: 10em 0em;
+    margin-left: 5em;
+}
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 6em;
+    border-bottom: 0.5px solid var(--code-blue);
+    align-items: center;
+    margin-left: 5em;
+    margin-right: 5em;
+}
+.progress {
+    text-align: center;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.logo {
+    font-size: 46px;
+    display: block;
+}
+nav a {
+    display: block;
+    background-color: #ffffff;
+    border: 0.7px solid var(--code-blue);
+    border-radius: 25px;
+    padding: 0.5em 2.0em;
+    text-transform: lowercase;
+    text-decoration: none;
+    color: #060606;
+    transition: 0.3s ease-in;
+    font-size: 16px;
+}
+nav a:hover {
+    background-color: #f5f5f5;
+    transition: 0.3s ease-in;
+}
+.typing{
+    color: var(--code-blue);
+}
+h1 {
+    font-size: 40px;
+}
+.section {
+    margin-top: 6em;
+    margin-left: 5em;
+}
+.section p {
+    margin-bottom: 3em;
+    margin-left: 0.2em;
+}
+footer {
+    text-align: center;
+    padding: 20px;
+    bottom: 0;
+    border-top: 0.5px solid var(--code-blue);
+    margin-top: 20em;
+}
+footer p {
+    margin: 1em auto;
+}

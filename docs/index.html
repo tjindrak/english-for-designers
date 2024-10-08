@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
+    <title>MANIFESTO | tjindrak</title>
+</head>
+<body>
+
+<header>
+    <a class="logo">MANIFESTO</a>
+    <nav>
+        <a href="#home">Home</a>
+    </nav>
+</header>
+<section class="first">
+    <h1>Welcome to <span class="typing"></span></h1>
+    <div class="theme-switch-wrapper">
+        <label class="theme-switch" for="check-btn">
+            <input type="checkbox" id="check-btn" class="check-btn" />
+            <div class="slider round"></div>
+        </label>
+        <span class="text-paragraph">Dark Mode</span>
+    </div>
+</section>
+
+<main>
+    <section class="section section--section1">
+        <h2>The Manipulative Power of Design</h2>
+        <p>Deception-Design-Manipulation. Words that irrevocably belong together. Design consciously manipulates. This statement in itself may sound negative, but it is not necessarily so. Design helps us overcome. Overcoming our own creativity, bending reality or just seeing things better than they are. I think this manipulative nature belongs to design, but at the same time its function should be clear and understandable, with elements of design playing with our perceptions.</p> 
+
+            <p>Where will we see this in the near future? E-shops sites, for example, may change with the advent of virtual reality (VR). What will change is not the e-shop system in the sense of I want a product, I buy, I pick up/receive, but the picking system. They will try to show the goods as faithfully as possible, but the way the goods look will mess with us a bit. Perfect renders, lit compositions, incredibly clean textures without a single blemish. This, if we don't realise, will create an illusion that doesn't really match reality. So the function will remain simple and direct - to present us with a product, but the form will be manipulative and visually appealing.
+            </p>
+    </section>
+    <section class="section section--section2">
+        <h2>The Intersection of Design and Technology</h2>
+        <p>Design is very closely linked to technology. As Flusser writes, technology is based on manipulating the laws of nature, such as the lever cheating gravity, thus actually simplifying the "task". We can say that design is actually a technical discipline, apart from the artistic part, because it is important to look at anything we design in terms of technology. We can talk about coffee machines that have simplified over the years - from the buttons to the display. We can look at it as a step towards more possibilities. For some it will be a step towards more intuitive operation, for others not. The important thing is that the experience and functionality remain the same.</p>
+    </section>
+    <section class="section section--section3">
+        <h2>The Ephemeral Value of Design in the Age of Mass Production</h2>
+        <p>Nowadays, the value of design is very ephemeral. As Flusser said, the plastic pen is now so cheap that it is given away for free. Even though the design of the pen and its sophisticated technology cost an incredible fortune to produce, today the material value is zero. The value is determined by the design. Or better yet, a brand with a nicely undesigned logo. The real value of a product is lost with advanced manufacturing technology, and especially mass production. Similarly, we can think of other things that are losing value. We can take a glass like this, where the glass is still the same, it just depends if it is from IKEA or a small glass maker and is polished to a shine. Or we can go back 50 years, when in the Czechoslovakia of that time having jeans meant something. 30 years later, my jeans were commonplace and all that mattered was the innovative and aesthetic design of mass-produced goods.</p>
+    </section>
+    <section class="section section--section4">
+        <h2>The Balance Between Simplicity and Depth in Modern Design</h2>
+        <p>Flusser is of the opinion that design should be "artistic" enough for everyone to get involved, but that this artistry should not mean too much simplicity. Nowadays the notion of simplicity has become popular, but true simplicity is about improving the basic experience. However, in digital and traditional print environments where users expect minimalist design, it's important to remember that minimalism without a clear purpose is empty. And with emptiness, people mask the place where something should be. Every design element must have a reason, and you can't remove elements without considering the consequence. Modern design can be simple, but if we want to attract attention, we need to be slightly different; we're not talking about excessive extravagance, but rather a slightly more complex approach that adds depth and meaning. One day we will all go back to more complex designs, patterns, machines, maybe even technology, because simplicity will just be too much.</p>
+    </section>
+</main>
+<footer>
+    <p>&copy; <span id="year"></span> Všechna práva vyhrazena.</p>
+</footer>
+
+<script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+</script>
+</body>
+<script>$(document).ready(function () {
+    // typing text script
+    var typed = new Typed(".typing", {
+        strings: ["Manifesto", "Manifesto About the Word Design"],
+        typeSpeed: 100,
+        backSpeed: 70,
+        loop: true
+    });
+}); </script>
+<script>const toggleSwitch = document.getElementById('check-btn');
+    const currentTheme = localStorage.getItem('theme');
+    
+    if (currentTheme) {
+        document.documentElement.setAttribute('data-theme', currentTheme);
+      
+        if (currentTheme === 'dark') {
+            toggleSwitch.checked = true;
+        }
+    }
+    
+    function switchTheme(e) {
+        if (e.target.checked) {
+            document.documentElement.setAttribute('data-theme', 'dark');
+            localStorage.setItem('theme', 'dark');
+        }
+        else {        document.documentElement.setAttribute('data-theme', 'light');
+              localStorage.setItem('theme', 'light');
+        }    
+    }
+    
+    toggleSwitch.addEventListener('change', switchTheme, false);</script>
+</html>
