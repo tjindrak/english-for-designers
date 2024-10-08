@@ -28,7 +28,7 @@
     --code-blue: #33ccff;
 }
 .theme-switch-wrapper {
-    display: block;/*aaa*/
+    display: none;
     align-items: center;
     position: absolute;
     top: 100px;
