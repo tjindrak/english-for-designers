@@ -8,6 +8,6 @@ The first assignment was to write a manifesto about graphic design as we view it
 
 **[Check it here](https://tjindrak.github.io/english-for-designers/)**
 
-_"Just read and think graphic design isn’t just visuals, it’s the message that shapes the world."_                                              
+_"Just read and think, graphic design isn’t just visuals, it’s the message that shapes the world."_                                              
 
 tjindrak 2024
