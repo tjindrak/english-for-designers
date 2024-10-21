@@ -4,4 +4,4 @@
 - Value comes from design or brand, not materials.
 - Example: Jeans—once a luxury, now common.
 
-  [previous](/Slide02.md) [next](/Slide04.md)
+  [previous](/Presentation/Slide02.md) [next](/Presentation/Slide04.md)
