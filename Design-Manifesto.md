@@ -21,3 +21,5 @@ Think about a glass. Whether it’s from IKEA or handmade, it’s still just a g
 Flusser believed design should be "artistic" enough for everyone to enjoy but not too simple. Real simplicity makes things better. In digital and print design, people like minimalism, but minimalism without purpose can feel empty. If you remove parts without thought, the design may feel incomplete.
 
 Modern design can be simple, but to stand out, it needs some complexity. It’s not about being flashy, but about adding meaning. Eventually, we may go back to more complex designs because pure simplicity might feel too plain.
+
+**[Check Design Manifesto web here](https://tjindrak.github.io/english-for-designers/)**
