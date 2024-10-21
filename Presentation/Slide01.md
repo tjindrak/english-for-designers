@@ -4,4 +4,4 @@
 - Future of e-shops: VR could show products in an ideal way.
 - Products look perfect, but reality may differ.
 
-[next](/Slide02.md)
+[next](/Presentation/Slide02.md)
