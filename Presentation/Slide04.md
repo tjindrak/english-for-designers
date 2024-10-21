@@ -4,4 +4,4 @@
 - Minimalism can feel empty without purpose.
 - Removing elements without thought can hurt design.
   
-[previous](Presentation/Slide03.md) [next](Presentation/Slide05.md)
+[previous](/Presentation/Slide03.md) [next](/Presentation/Slide05.md)
