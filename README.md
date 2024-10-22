@@ -1,6 +1,6 @@
 # english-for-designers
 
-In this document you can see all the assignments for the summer semester 2024 in English for Designers (AJOVT3).
+In this document you can see all the assignments for the winter semester 2024 in English for Designers (AJOVT3).
 
 ## Manifesto
 
