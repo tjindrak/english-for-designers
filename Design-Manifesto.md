@@ -1,3 +1,5 @@
+# Manifesto About The Word Design
+
 ## The Manipulative Power of Design
 
 Design and manipulation often go together. Design has the power to change how we see things, which might sound bad, but it doesn't have to be. Design helps us look at things in new ways, sometimes better than they really are. While design can manipulate, it should still be easy to understand.
