@@ -17,3 +17,7 @@ tjindrak 2024
 ## Manifesto Presentation
 
 **[Click here](/Presentation/Slide01.md)**
+
+## My bio
+
+**[Click here](/My–bio.md)**
