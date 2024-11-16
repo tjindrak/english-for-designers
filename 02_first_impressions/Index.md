@@ -10,4 +10,4 @@ I work as a Social Media Specialist for Laba Group, where I combine strategy wit
 # Hobbies & Interests
 Outside of design and technology, I have a profound love for both sports and music. I play several instruments, including guitar, piano, and electric guitar, and I’m always exploring new ways to engage with music. For over 14 years, I’ve practiced capoeira, a passion that complements my athletic pursuits, as I enjoy trying different sports without hesitation. My love for nature extends to outdoor activities like camping, spending time at a cottage, and getting my hands dirty with practical tasks.
 
-**[Here are some web portfolios I like](02_first_impressions/Inspo.md)**
+**[Here are some web portfolios I like](/02_first_impressions/Inspo.md)**
