@@ -6,5 +6,5 @@
 
 **[Bio 3](https://www.david-hckh.com/)** – David-hckh
 
-**[My Bio](/My-bio.md)**
+**[My Bio](/02_first_imoressions/Index.md)**
 
