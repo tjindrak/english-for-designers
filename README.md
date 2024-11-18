@@ -21,3 +21,7 @@ tjindrak 2024
 ## My bio
 
 **[Click here](/02_first_impressions/Index.md)**
+
+## My Projects
+
+**[Here](/02_first_impressions/My_Projects.md)**
