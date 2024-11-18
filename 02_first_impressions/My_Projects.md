@@ -4,7 +4,7 @@
 
 [Heaven Landing Page](https://tomasjindrak.myportfolio.com/landing-page-heaven)  
 
----
+--
 
 ### **Fundamental Book Edition Design**  
 
@@ -12,7 +12,7 @@ The **Fundamental** book edition focuses on clean design and easy readability. E
 
 [Fundamental Edition](https://tomasjindrak.myportfolio.com/navrh-edice-fundamental)  
 
----
+--
 
 ### **Polepšovna – Graphic Design for a Unique Concept**  
 
@@ -20,4 +20,4 @@ The **Fundamental** book edition focuses on clean design and easy readability. E
 
 [Polepšovna Brand](https://tomasjindrak.myportfolio.com/polepsovna-brand)  
 
----
+--
