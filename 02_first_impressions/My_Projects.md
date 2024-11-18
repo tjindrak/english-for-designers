@@ -1,6 +1,6 @@
 ### **Landing Page – Heaven**  
 
-*Heaven* was my first design project, created for a clothing brand founded by a close friend. I developed its brand identity, designed a clean landing page, and produced a promotional video. This project sparked my passion for UI/UX design, showing me the joy of crafting both functional and visually engaging user experiences. It’s the foundation of my journey as a designer.  
+**Heaven** was my first design project, created for a clothing brand founded by a close friend. I developed its brand identity, designed a clean landing page, and produced a promotional video. This project sparked my passion for UI/UX design, showing me the joy of crafting both functional and visually engaging user experiences. It’s the foundation of my journey as a designer.  
 
 [Heaven Landing Page](https://tomasjindrak.myportfolio.com/landing-page-heaven)  
 
