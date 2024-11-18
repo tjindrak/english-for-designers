@@ -6,7 +6,7 @@ In this document you can see all the assignments for the winter semester 2024 in
 
 The first assignment was to write a manifesto about graphic design as we view it. I took inspiration from **Vilém Flusser.**
 
-**My manifesto [here](/01_Design_Manifesto/My_Design_Manifesto.md)**
+**My manifesto [Here](/01_Design_Manifesto/My_Design_Manifesto.md)**
 
 **[Manifesto Website](https://tjindrak.github.io/english-for-designers/)**
 
@@ -16,12 +16,12 @@ tjindrak 2024
 
 ## Manifesto Presentation
 
-**[Click here](/01_Design_Manifesto/Presentation/Slide01.md)**
+**[Click Here](/01_Design_Manifesto/Presentation/Slide01.md)**
 
 ## My bio
 
-**[Click here](/02_first_impressions/Index.md)**
+**[Click Here](/02_first_impressions/Index.md)**
 
 ## My Projects
 
-**[Here](/02_first_impressions/My_Projects.md)**
+**[Click Here](/02_first_impressions/My_Projects.md)**
