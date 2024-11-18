@@ -4,13 +4,18 @@ I’m a graphic designer with a strong focus on UX/UI, but my creative journey d
 
 In my work, I always aim to inject a sense of individuality while staying true to my clients’ needs and visions. I’m drawn to simplicity, but not the kind that’s plain or boring. Every design element I choose has a purpose and a reason behind it, ensuring that it’s not just minimal, but meaningful. For me, design is about telling a story, solving problems, and creating experiences that leave a lasting impression.  
 
+[My Full Portfolio](https://tomasjindrak.myportfolio.com/work) 
+
+---
+---
+
 ### **Landing Page – Heaven**  
 
 **Heaven** was my first design project, created for a clothing brand founded by a close friend. I developed its brand identity, designed a clean landing page, and produced a promotional video. This project sparked my passion for UI/UX design, showing me the joy of crafting both functional and visually engaging user experiences. It’s the foundation of my journey as a designer.  
 
 [Heaven Landing Page](https://tomasjindrak.myportfolio.com/landing-page-heaven)  
 
-----
+---
 
 ### **Fundamental Book Edition Design**  
 
@@ -18,7 +23,7 @@ The **Fundamental** book edition focuses on clean design and easy readability. E
 
 [Fundamental Edition](https://tomasjindrak.myportfolio.com/navrh-edice-fundamental)  
 
-----
+---
 
 ### **Polepšovna – Graphic Design for a Unique Concept**  
 
@@ -26,4 +31,4 @@ The **Fundamental** book edition focuses on clean design and easy readability. E
 
 [Polepšovna Brand](https://tomasjindrak.myportfolio.com/polepsovna-brand)  
 
-----
+---
