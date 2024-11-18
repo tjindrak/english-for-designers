@@ -6,8 +6,8 @@ In my work, I always aim to inject a sense of individuality while staying true t
 
 [My Full Portfolio](https://tomasjindrak.myportfolio.com/work) 
 
----
----
+***
+***
 
 ### **Landing Page – Heaven**  
 
