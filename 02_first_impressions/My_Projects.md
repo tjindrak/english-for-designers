@@ -29,3 +29,4 @@ The **Fundamental** book edition focuses on clean design and easy readability. E
 
 [Polepšovna Brand](https://tomasjindrak.myportfolio.com/polepsovna-brand)
 
+_This is just the beginning!_
