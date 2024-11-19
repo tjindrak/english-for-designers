@@ -4,7 +4,7 @@ I’m a graphic designer with a strong focus on UX/UI, but my creative journey d
 
 In my work, I always aim to inject a sense of individuality while staying true to my clients’ needs and visions. I’m drawn to simplicity, but not the kind that’s plain or boring. Every design element I choose has a purpose and a reason behind it, ensuring that it’s not just minimal, but meaningful. For me, design is about telling a story, solving problems, and creating experiences that leave a lasting impression.  
 
-**Take a look a choose your favourite!**
+**Take a look and choose your favourite!**
 
 [My Full Portfolio](https://tomasjindrak.myportfolio.com/work)
 
