@@ -17,12 +17,14 @@ In my work, I always aim to inject a sense of individuality while staying true t
 **Heaven** was my first design project, created for a clothing brand founded by a close friend. I developed its brand identity, designed a clean landing page, and produced a promotional video. This project sparked my passion for UI/UX design, showing me the joy of crafting both functional and visually engaging user experiences. It’s the foundation of my journey as a designer.  
 
 [Heaven Landing Page](https://tomasjindrak.myportfolio.com/landing-page-heaven)
+![Heaven landing page mockup](/02_first_impressions/Images/HEAVEN_MOCKUP.jpg)
 
 
 ### **Fundamental Book Edition Design**  
 The **Fundamental** book edition focuses on clean design and easy readability. Each book is simple yet stylish, created to be both functional and decorative. A shared idea connects all the books, giving the series a cohesive identity while allowing each book to stand out in its own way. These books aren’t just for reading—they’re also beautiful design pieces that fit seamlessly into any space. This project reflects my passion for typography and the balance between practicality and elegance.  
 
 [Fundamental Edition](https://tomasjindrak.myportfolio.com/navrh-edice-fundamental)
+![Fundamental edition](/02_first_impressions/Images/Fundamental.jpg)
 
 
 ### **Polepšovna – Graphic Design for a Unique Concept**  
