@@ -31,6 +31,6 @@ The **Fundamental** book edition focuses on clean design and easy readability. E
 
 [Polepšovna Brand](https://tomasjindrak.myportfolio.com/polepsovna-brand)
 
-![Polepšovna_mockup](/Images/Polepsovna_img.png)
+![Polepšovna_mockup](02_first_impressions/Images/Polepsovna_img.jpg)
 
 _This is just the beginning!_
