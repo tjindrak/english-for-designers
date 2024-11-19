@@ -24,7 +24,7 @@ In my work, I always aim to inject a sense of individuality while staying true t
 The **Fundamental** book edition focuses on clean design and easy readability. Each book is simple yet stylish, created to be both functional and decorative. A shared idea connects all the books, giving the series a cohesive identity while allowing each book to stand out in its own way. These books aren’t just for reading—they’re also beautiful design pieces that fit seamlessly into any space. This project reflects my passion for typography and the balance between practicality and elegance.  
 
 [Fundamental Edition](https://tomasjindrak.myportfolio.com/navrh-edice-fundamental)
-![Fundamental edition](/02_first_impressions/Images/Fundamental.jpg)
+![Fundamental edition](/02_first_impressions/Images/Fundamental.JPG)
 
 
 ### **Polepšovna – Graphic Design for a Unique Concept**  
