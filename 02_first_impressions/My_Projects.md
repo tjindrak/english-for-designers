@@ -1,5 +1,4 @@
-# **Hello**, Hola, Bonjour, Hallo, Ciao, Olá, Namaste, Hej, Ahoj!
-# **My name is Tomas** 🙋🏽!
+# **Hello**, Hola, Bonjour, Hallo, Ciao, Ahoj **My name is Tomas** 🙋🏽!
 
 ![](/02_first_impressions/Images/Me_photo_logo.jpg)
 
@@ -17,6 +16,8 @@ I aim to bring personality to my work while meeting my **clients' needs**. I’m
 
 ## **Polepšovna – Graphic Design for a Unique Concept**
 
+- Visual identity, print materials, social media
+
 > **Polepšovna** is a business that combines craft beer with Czech-Asian cuisine, set in a clean, industrial interior. My role was to create graphic materials and print designs that matched their modern, minimalist brand. I worked on menus and other branding elements, ensuring the designs were simple, sleek, and aligned with their overall concept. This project was a great opportunity to design for a unique business while keeping their aesthetic and message consistent.  
 
 
@@ -27,6 +28,9 @@ I aim to bring personality to my work while meeting my **clients' needs**. I’m
 
 ## **Fundamental Book Edition Design**
 
+- typesetting, logodesign, edition design
+- Done as school work
+
 > The **Fundamental** book edition focuses on clean design and easy readability. Each book is simple yet stylish, created to be both functional and decorative. A shared idea connects all the books, giving the series a cohesive identity while allowing each book to stand out in its own way. These books aren’t just for reading—they’re also beautiful design pieces that fit seamlessly into any space. This project reflects my passion for typography and the balance between practicality and elegance.  
 
 
@@ -36,6 +40,10 @@ I aim to bring personality to my work while meeting my **clients' needs**. I’m
 [Fundamental Edition](https://tomasjindrak.myportfolio.com/navrh-edice-fundamental)
 
 ## **Landing Page – Heaven**  
+
+- Logo design, web design, product design
+- First project
+- Done for free
 
 > **Heaven** was my first design project, created for a clothing brand founded by a close friend. I developed its brand identity, designed a clean landing page, and produced a promotional video. This project sparked my passion for UI/UX design, showing me the joy of crafting both functional and visually engaging user experiences. It’s the foundation of my journey as a designer.  
 
