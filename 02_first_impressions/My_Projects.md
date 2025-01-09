@@ -43,3 +43,5 @@ The **Fundamental** book edition focuses on clean design and easy readability. E
 
 
 _This is just the beginning!_
+
+![](/02_first_impressions/Images/Logo_tj_middle.jpg)
