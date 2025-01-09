@@ -1,4 +1,6 @@
 # **Hello**, Hola, Bonjour, Hallo, Ciao, Olá, Namaste, Hej, Ahoj!
+
+
 # **My name is Tomas** 🙋🏽 !
  
 
@@ -10,11 +12,11 @@
 
  
  >Design for me is not just what looks good, but what works and fulfils its purpose
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 I aim to bring personality to my work while meeting my **clients' needs**. I’m drawn to simplicity—but not the plain or boring kind. Every design element should have a purpose, making the result both **minimalistic and meaningful**. For me, design is about storytelling, solving problems, and creating **experiences** that **stick with people.**
 ##### **[Take a look and choose your favourite!](https://tomasjindrak.myportfolio.com/work)**
 
