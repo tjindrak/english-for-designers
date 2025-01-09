@@ -53,7 +53,7 @@ I aim to bring personality to my work while meeting my **clients' needs**. I’m
 
 [Heaven Landing Page](https://tomasjindrak.myportfolio.com/landing-page-heaven)
 
-##### _[Check out all my projects] (https://tomasjindrak.myportfolio.com/work)_
+##### _[Check out all my projects](https://tomasjindrak.myportfolio.com/work)_
 
 _This is just the beginning!_
 
