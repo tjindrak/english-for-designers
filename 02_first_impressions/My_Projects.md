@@ -1,7 +1,7 @@
 # **Hello**, Hola, Bonjour, Hallo, Ciao, Olá, Namaste, Hej, Ahoj!
 # **My name is Tomas** 🙋🏽!
 
-![](/02_first_impressions/Images/Me_photo_2.jpg)
+![](/02_first_impressions/Images/Me_photo_logo.jpg)
 
 - I come from Rychnov in the north of the Czech Republic and I currently live partly in Prague. 
 - **Who am I?** I'm a graphic designer with a strong focus on **UX/UI**, but that's not the end of my creative journey.
