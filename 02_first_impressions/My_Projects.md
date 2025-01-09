@@ -19,11 +19,16 @@
  
 I aim to bring personality to my work while meeting my **clients' needs**. I’m drawn to simplicity—but not the plain or boring kind. Every design element should have a purpose, making the result both **minimalistic and meaningful**. For me, design is about storytelling, solving problems, and creating **experiences** that **stick with people.**
 ##### **[Take a look and choose your favourite!](https://tomasjindrak.myportfolio.com/work)**
-
+   
+    
 # **Stop talking about me, let's look at some of my projects!**
 
+
+       
 # **Polepšovna – Graphic Design for a Unique Concept**  
 
+
+        
 **Polepšovna** is a business that combines craft beer with Czech-Asian cuisine, set in a clean, industrial interior. My role was to create graphic materials and print designs that matched their modern, minimalist brand. I worked on menus and other branding elements, ensuring the designs were simple, sleek, and aligned with their overall concept. This project was a great opportunity to design for a unique business while keeping their aesthetic and message consistent.  
 
 [Polepšovna Brand](https://tomasjindrak.myportfolio.com/polepsovna-brand)
