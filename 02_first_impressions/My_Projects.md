@@ -22,8 +22,8 @@ I aim to bring personality to my work while meeting my **clients' needs**. I’m
    
     
 # **Stop talking about me, let's look at some of my projects!**
-
-
+#
+#
        
 # **Polepšovna – Graphic Design for a Unique Concept**  
 
