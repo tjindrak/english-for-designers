@@ -1,7 +1,7 @@
 # **Hello**, Hola, Bonjour, Hallo, Ciao, Olá, Namaste, Hej, Ahoj!
 # **My name is Tomas** 🙋🏽!
 
-!(/02_first_impressions/Images/Logo_tj_width.jpg)
+![](/02_first_impressions/Images/Logo_tj_width.jpg)
 
 - I come from Rychnov in the north of the Czech Republic and I currently live partly in Prague. 
 - **Who am I?** I'm a graphic designer with a strong focus on **UX/UI**, but that's not the end of my creative journey.
@@ -13,10 +13,7 @@ I aim to bring personality to my work while meeting my **clients' needs**. I’m
 
 ##### **[Take a look and choose your favourite!](https://tomasjindrak.myportfolio.com/work)**
 
-
-
 # **Stop talking about me, let's look at some of my projects!**
-
 
 # **Polepšovna – Graphic Design for a Unique Concept**
 
@@ -26,7 +23,6 @@ I aim to bring personality to my work while meeting my **clients' needs**. I’m
 
 ![Polepšovna_mockup](/02_first_impressions/Images/Polepsovna_img.jpg)
 
-
 # **Fundamental Book Edition Design**
 
 > The **Fundamental** book edition focuses on clean design and easy readability. Each book is simple yet stylish, created to be both functional and decorative. A shared idea connects all the books, giving the series a cohesive identity while allowing each book to stand out in its own way. These books aren’t just for reading—they’re also beautiful design pieces that fit seamlessly into any space. This project reflects my passion for typography and the balance between practicality and elegance.  
@@ -34,7 +30,6 @@ I aim to bring personality to my work while meeting my **clients' needs**. I’m
 [Fundamental Edition](https://tomasjindrak.myportfolio.com/navrh-edice-fundamental)
 
 ![Fundamental edition](/02_first_impressions/Images/Fundamental.JPG)
-
 
 # **Landing Page – Heaven**  
 
