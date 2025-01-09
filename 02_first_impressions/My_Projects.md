@@ -6,7 +6,7 @@
 - **Who am I?** I'm a graphic designer with a strong focus on **UX/UI**, but that's not the end of my creative journey.
 - I love creating brand identities, print materials, and typesetting books. 
 
- >Design for me is not just what looks good, but what works and fulfils its purpose
+ > *Design for me is not just what looks good, but what works and fulfils its purpose*
 
 I aim to bring personality to my work while meeting my **clients' needs**. I’m drawn to simplicity—but not the plain or boring kind. Every design element should have a purpose, making the result both **minimalistic and meaningful**. For me, design is about storytelling, solving problems, and creating **experiences** that **stick with people.**
 
@@ -53,7 +53,7 @@ I aim to bring personality to my work while meeting my **clients' needs**. I’m
 
 [Heaven Landing Page](https://tomasjindrak.myportfolio.com/landing-page-heaven)
 
-##### **[Take a look and choose your favourite!](https://tomasjindrak.myportfolio.com/work)**
+##### _[Check out all my projects] (https://tomasjindrak.myportfolio.com/work)_
 
 _This is just the beginning!_
 
