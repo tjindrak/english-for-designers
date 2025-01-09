@@ -11,7 +11,7 @@
 
 I aim to bring personality to my work while meeting my **clients' needs**. I’m drawn to simplicity—but not the plain or boring kind. Every design element should have a purpose, making the result both **minimalistic and meaningful**. For me, design is about storytelling, solving problems, and creating **experiences** that **stick with people.**
 
-##### **[Take a look and choose your favourite!](https://tomasjindrak.myportfolio.com/work)**
+
 
 # **Stop talking about me, let's look at some of my projects!**
 
@@ -38,6 +38,8 @@ I aim to bring personality to my work while meeting my **clients' needs**. I’m
 [Heaven Landing Page](https://tomasjindrak.myportfolio.com/landing-page-heaven)
 
 ![Heaven landing page mockup](/02_first_impressions/Images/HEAVEN_MOCKUP.jpg)
+
+##### **[Take a look and choose your favourite!](https://tomasjindrak.myportfolio.com/work)**
 
 _This is just the beginning!_
 
