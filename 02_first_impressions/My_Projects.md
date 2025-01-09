@@ -1,4 +1,4 @@
-# **Hello**, Hola, Bonjour, Hallo, Ciao, Ahoj **My name is Tomas** 🙋🏽!
+# **Hello**, Hola, Bonjour, Hallo, Ciao, Ahoj... **My name is Tomas** 🙋🏽!
 
 ![](/02_first_impressions/Images/Me_photo_logo.jpg)
 
