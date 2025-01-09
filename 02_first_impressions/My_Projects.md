@@ -1,7 +1,7 @@
 # **Hello**, Hola, Bonjour, Hallo, Ciao, Olá, Namaste, Hej, Ahoj!
 
 
-# **My name is Tomas** 🙋🏽 !
+# **My name is Tomas** 🙋🏽!
  
 
 
@@ -27,7 +27,7 @@ I aim to bring personality to my work while meeting my **clients' needs**. I’m
 # **Polepšovna – Graphic Design for a Unique Concept**
 
 
-**Polepšovna** is a business that combines craft beer with Czech-Asian cuisine, set in a clean, industrial interior. My role was to create graphic materials and print designs that matched their modern, minimalist brand. I worked on menus and other branding elements, ensuring the designs were simple, sleek, and aligned with their overall concept. This project was a great opportunity to design for a unique business while keeping their aesthetic and message consistent.  
+> **Polepšovna** is a business that combines craft beer with Czech-Asian cuisine, set in a clean, industrial interior. My role was to create graphic materials and print designs that matched their modern, minimalist brand. I worked on menus and other branding elements, ensuring the designs were simple, sleek, and aligned with their overall concept. This project was a great opportunity to design for a unique business while keeping their aesthetic and message consistent.  
 
 [Polepšovna Brand](https://tomasjindrak.myportfolio.com/polepsovna-brand)
 
