@@ -28,7 +28,7 @@ I aim to bring personality to my work while meeting my **clients' needs**. I’m
 
 ## **Fundamental Book Edition Design**
 
-- typesetting, logodesign, edition design
+- Typesetting, logodesign, edition design
 - Done as school work
 
 > The **Fundamental** book edition focuses on clean design and easy readability. Each book is simple yet stylish, created to be both functional and decorative. A shared idea connects all the books, giving the series a cohesive identity while allowing each book to stand out in its own way. These books aren’t just for reading—they’re also beautiful design pieces that fit seamlessly into any space. This project reflects my passion for typography and the balance between practicality and elegance.  
