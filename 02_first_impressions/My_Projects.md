@@ -1,5 +1,4 @@
-# **Hello**, Hola, Bonjour, Hallo, Ciao, Olá, Namaste, Hej, Ahoj!
-**My name is Tomas** 🙋🏽!
+# **Hello**, Hola, Bonjour, Hallo, Ciao, Olá, Namaste, Hej, Ahoj!     **My name is Tomas** 🙋🏽!
 
 ![](/02_first_impressions/Images/Logo_tj_width.jpg)
 
