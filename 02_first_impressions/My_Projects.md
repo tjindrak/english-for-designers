@@ -3,7 +3,7 @@
  
 
 
-!(/02_first_impressions/Images/Logo_tj@3x.png)
+![](/02_first_impressions/Images/Logo_TJ.jpg)
 - I come from Rychnov in the north of the Czech Republic and I currently live partly in Prague. 
 - **Who am I?** I'm a graphic designer with a strong focus on **UX/UI**, but that's not the end of my creative journey.
 - I love creating brand identities, print materials, and typesetting books. 
