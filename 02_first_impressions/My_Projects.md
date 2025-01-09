@@ -2,10 +2,17 @@
 # **My name is Tomas** 🙋🏽
  
 
+
+!(/02_first_impressions/Images/Logo_tj@3x.png)
 - I come from Rychnov in the north of the Czech Republic and I currently live partly in Prague. 
 - **Who am I?** I'm a graphic designer with a strong focus on **UX/UI**, but that's not the end of my creative journey.
 - I love creating brand identities, print materials, and typesetting books. 
+
+ 
  >Design for me is not just what looks good, but what works and fulfils its purpose
+
+
+
 
 
 I aim to bring personality to my work while meeting my **clients' needs**. I’m drawn to simplicity—but not the plain or boring kind. Every design element should have a purpose, making the result both **minimalistic and meaningful**. For me, design is about storytelling, solving problems, and creating **experiences** that **stick with people.**
