@@ -12,7 +12,7 @@ I learned how the world works, in both good and bad ways.
 - Overcoming real-world construction constraints while staying true to the vision  
 - Seamless collaboration between designers, architects, and builders to bring ideas to life  
 
-## A Craft Beer Boom: Riding the Wave of Microbreweries  
-- The explosive growth of microbreweries and their increasing popularity  
-- How our project taps into this movement, offering an experience beyond just great beer  
-- Standing out in a competitive market by bringing innovation to traditional brewing  
+## Riding the Wave of Microbreweries 
+- The explosive growth of customers.  
+- Beer is not just beer, not now! 
+- Adding events for customers.
