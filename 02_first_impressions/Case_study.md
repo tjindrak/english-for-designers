@@ -1,5 +1,7 @@
 # More Than Just a Project: A Intensive Course in Everything 
 
+I learned how the world works, in both good and bad ways.
+
 ## When Two Worlds Collide: Crafting Something Truly Unique  
 - Blending two seemingly unrelated concepts to create a groundbreaking experience  
 - Navigating the challenges of merging different functionalities into a cohesive whole  
