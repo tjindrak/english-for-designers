@@ -1,4 +1,4 @@
-# More Than Just a Project: A Intensive Course in Everything 
+# Polepšovna More Than Just a Graphics Project
 
 I learned how the world works, in both good and bad ways.
 
