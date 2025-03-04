@@ -1,6 +1,6 @@
 # Polepšovna More Than Just a Graphics Project
 
-I learned how the world works, in both good and bad ways.
+## I learned how the world works, in both good and bad ways.
 ![Bad Experience](/02_first_impressions/images_casestudy/graph@4x.png)
 
 
@@ -24,12 +24,12 @@ I learned how the world works, in both good and bad ways.
 ![Lines in graphics](/02_first_impressions/images_casestudy/poster.png)
 
 
-### Seamless collaboration between designers, architects, and builders to bring ideas to life
+## Seamless collaboration between designers, architects, and builders to bring ideas to life
 
-#### Before
+### Before
 ![Before](/02_first_impressions/images_casestudy/mess.jpg)
 
-#### After
+### After
 ![After](/02_first_impressions/images_casestudy/interior.jpeg)
 
 
