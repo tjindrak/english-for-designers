@@ -6,26 +6,28 @@ I learned how the world works, in both good and bad ways.
 
 ## When Two Worlds Collide
 - Blending two seemingly unrelated concepts to create a groundbreaking experience 
+###Czech traditional Svíčková  
 ![Svíčková](/02_first_impressions/images_casestudy/svickova.jpg)
-Czech traditional Svíčková  
+###Asian traditional DimSum dumplings
 ![Dim Sum](/02_first_impressions/images_casestudy/dimsum.webp)
-Asian traditional DimSum dumplings
+###Absolutely top hybrid of svíčková and dimsum dumplings
 ![Dim Sum Svíčková](/02_first_impressions/images_casestudy/dimsumsvickova.jpg)
-Absolutely top hybrid of svíčková and dimsum dumplings
+
 
 ## Balance of graphic and construction parts
 - Finding the perfect balance between aesthetics and structural feasibility    
-
+###Interior mockup
 ![Mockup interior](/02_first_impressions/images_casestudy/interior.png)
-Interior mockup
+###Navigation lines
 ![Lines on the floor](/02_first_impressions/images_casestudy/floor_lines.jpg)
-Navigation lines
+###Lines as a graphic element
 ![Lines in graphics](/02_first_impressions/images_casestudy/poster.png)
-Lines as a graphic element
+
 
 - Seamless collaboration between designers, architects, and builders to bring ideas to life  
 ![Before](/02_first_impressions/images_casestudy/mess.jpg)
 Before
+
 ![After](/02_first_impressions/images_casestudy/interior.jpeg)
 After
 
@@ -33,5 +35,6 @@ After
 ## Riding the Wave of Microbreweries
 ![Microbreweries](/02_first_impressions/images_casestudy/Microbreweries.jpeg)
 Offer of microbreweries
+
 ![Event](/02_first_impressions/images_casestudy/event.png)
 Events in Polepšovna
