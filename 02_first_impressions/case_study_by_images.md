@@ -24,17 +24,19 @@ I learned how the world works, in both good and bad ways.
 ![Lines in graphics](/02_first_impressions/images_casestudy/poster.png)
 
 
-- Seamless collaboration between designers, architects, and builders to bring ideas to life  
-![Before](/02_first_impressions/images_casestudy/mess.jpg)
-Before
+- Seamless collaboration between designers, architects, and builders to bring ideas to life
 
+### Before
+![Before](/02_first_impressions/images_casestudy/mess.jpg)
+
+### After
 ![After](/02_first_impressions/images_casestudy/interior.jpeg)
-After
 
 
 ## Riding the Wave of Microbreweries
+### Offer of microbreweries
 ![Microbreweries](/02_first_impressions/images_casestudy/Microbreweries.jpeg)
-Offer of microbreweries
 
+### Events in Polepšovna
 ![Event](/02_first_impressions/images_casestudy/event.png)
-Events in Polepšovna
+
