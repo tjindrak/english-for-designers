@@ -1,6 +1,8 @@
 # Polepšovna More Than Just a Graphics Project
 
 I learned how the world works, in both good and bad ways.
+![Bad Experience](/02_first_impressions/images_casestudy/graph@4x.png)
+
 
 ## When Two Worlds Collide
 ![Svíčková](/02_first_impressions/images_casestudy/svickova.jpg)
