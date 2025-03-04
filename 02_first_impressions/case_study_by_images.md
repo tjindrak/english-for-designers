@@ -6,21 +6,21 @@ I learned how the world works, in both good and bad ways.
 
 ## When Two Worlds Collide
 - Blending two seemingly unrelated concepts to create a groundbreaking experience 
-###Czech traditional Svíčková  
+### Czech traditional Svíčková  
 ![Svíčková](/02_first_impressions/images_casestudy/svickova.jpg)
-###Asian traditional DimSum dumplings
+### Asian traditional DimSum dumplings
 ![Dim Sum](/02_first_impressions/images_casestudy/dimsum.webp)
-###Absolutely top hybrid of svíčková and dimsum dumplings
+### Absolutely top hybrid of svíčková and dimsum dumplings
 ![Dim Sum Svíčková](/02_first_impressions/images_casestudy/dimsumsvickova.jpg)
 
 
 ## Balance of graphic and construction parts
 - Finding the perfect balance between aesthetics and structural feasibility    
-###Interior mockup
+### Interior mockup
 ![Mockup interior](/02_first_impressions/images_casestudy/interior.png)
-###Navigation lines
+### Navigation lines
 ![Lines on the floor](/02_first_impressions/images_casestudy/floor_lines.jpg)
-###Lines as a graphic element
+### Lines as a graphic element
 ![Lines in graphics](/02_first_impressions/images_casestudy/poster.png)
 
 
