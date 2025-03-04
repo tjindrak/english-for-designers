@@ -5,19 +5,33 @@ I learned how the world works, in both good and bad ways.
 
 
 ## When Two Worlds Collide
+- Blending two seemingly unrelated concepts to create a groundbreaking experience 
 ![Svíčková](/02_first_impressions/images_casestudy/svickova.jpg)
+Czech traditional Svíčková  
 ![Dim Sum](/02_first_impressions/images_casestudy/dimsum.webp)
+Asian traditional DimSum dumplings
 ![Dim Sum Svíčková](/02_first_impressions/images_casestudy/dimsumsvickova.jpg)
+Absolutely top hybrid of svíčková and dimsum dumplings
 
 ## Balance of graphic and construction parts
-![Mockup interior](/02_first_impressions/images_casestudy/interior.png)
-![Lines on the floor](/02_first_impressions/images_casestudy/floor_lines.jpg)
-![Lines in graphics](/02_first_impressions/images_casestudy/poster.png)
+- Finding the perfect balance between aesthetics and structural feasibility    
 
+![Mockup interior](/02_first_impressions/images_casestudy/interior.png)
+Interior mockup
+![Lines on the floor](/02_first_impressions/images_casestudy/floor_lines.jpg)
+Navigation lines
+![Lines in graphics](/02_first_impressions/images_casestudy/poster.png)
+Lines as a graphic element
+
+- Seamless collaboration between designers, architects, and builders to bring ideas to life  
 ![Before](/02_first_impressions/images_casestudy/mess.jpg)
+Before
 ![After](/02_first_impressions/images_casestudy/interior.jpeg)
+After
 
 
 ## Riding the Wave of Microbreweries
 ![Microbreweries](/02_first_impressions/images_casestudy/Microbreweries.jpeg)
-![Microbreweries](/02_first_impressions/images_casestudy/event.png)
+Offer of microbreweries
+![Event](/02_first_impressions/images_casestudy/event.png)
+Events in Polepšovna
