@@ -3,16 +3,19 @@
 I learned how the world works, in both good and bad ways.
 
 ## When Two Worlds Collide
-- Blending two seemingly unrelated concepts to create a groundbreaking experience  
-- Navigating the challenges of merging different functionalities into a cohesive whole  
-- Defining a unique value that sets this project apart from anything else on the market  
+![Svíčková](/02_first_impressions/images_casestudy/svickova.jpg)
+![Dim Sum](/02_first_impressions/images_casestudy/dimsum.webp)
+![Dim Sum Svíčková](/02_first_impressions/images_casestudy/dimsumsvickova.jpg)
 
-## Balance of graphic and construction parts   
-- Finding the perfect balance between aesthetics and structural feasibility  
-- Overcoming real-world construction constraints while staying true to the vision  
-- Seamless collaboration between designers, architects, and builders to bring ideas to life  
+## Balance of graphic and construction parts
+![Mockup interior](/02_first_impressions/images_casestudy/interior.png)
+![Lines on the floor](/02_first_impressions/images_casestudy/floor_lines.jpg)
+![Lines in graphics](/02_first_impressions/images_casestudy/poster.png)
 
-## Riding the Wave of Microbreweries 
-- The explosive growth of customers.  
-- Beer is not just beer, not now! 
-- Adding events for customers.
+![Before](/02_first_impressions/images_casestudy/mess.jpg)
+![After](/02_first_impressions/images_casestudy/interior.jpeg)
+
+
+## Riding the Wave of Microbreweries
+![Microbreweries](/02_first_impressions/images_casestudy/Microbreweries.jpeg)
+![Microbreweries](/02_first_impressions/images_casestudy/event.png)
