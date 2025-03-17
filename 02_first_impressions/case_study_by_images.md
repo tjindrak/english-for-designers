@@ -1,4 +1,4 @@
-# Polepšovna More Than Just a Graphics Project
+# **Polepšovna More Than Just a Graphics Project**
 
 ## I learned how the world works, in both good and bad ways.
 A project that I enjoyed, but also taught me a lot. 
@@ -15,7 +15,7 @@ But in retrospect, I think the team was absolutely great. We built a concept tha
 
 ---
 
-# Polepšovna – When Two Worlds Collide
+## Polepšovna – When Two Worlds Collide
 > It's a place that combines amazing food and microbrews
 
 Meals at the Polepšovna took on a completely different dimension. During the tastings I couldn't believe how it was possible to combine Czech and Asian cuisine. But at the tastings it was a really great experience and I recommend it to anyone passing by!
@@ -36,16 +36,16 @@ Meals at the Polepšovna took on a completely different dimension. During the ta
 
 ---
 
-# Riding the Wave of Microbreweries
+## Riding the Wave of Microbreweries
 As small breweries are increasingly on the rise, this is a brewpub offering a variety of beers from small breweries across the country. The primary supplier is Volt Brewery from Jablonec nad Nisou, where most of the Polepšovna team comes from.
 
-## Offer of microbreweries
+### Offer of microbreweries
 ![Microbreweries](/02_first_impressions/images_casestudy/Microbreweries.jpeg)
 *board with beer offer*
 
 ---
 
-# Balance of graphic and construction parts
+## Balance of graphic and construction parts
 
 It was necessary to work hand-in-hand with the interior architects to create the graphic visuals. Therefore, after the analysis of the interior, lines began to be used as a graphic element that also functions as an orientation system.
 
@@ -74,20 +74,20 @@ The interior is created in a clean industrial-punk style. Very often sheet metal
 
 ---
 
-# Seamless collaboration between designers, architects, and builders to bring ideas to life
+## Seamless collaboration between designers, architects, and builders to bring ideas to life
 The transformation of the interior of the old warehouse into the space we envisioned took an incredible six months and involved dozens of people from different sectors. The multi-million investment paid off.
 **What do you think?*
-## Before
+### Before
 ![Before](/02_first_impressions/images_casestudy/mess.jpg)
 *interior in progress*
 
-## After
+### After
 ![After](/02_first_impressions/images_casestudy/interior.jpeg)
 *finished interior*
 
 ---
 
-# Events in Polepšovna
+## Events in Polepšovna
 Polepšovna is a punk place where top gastronomy and brewing meet, enriched with art and events like Rehab parties, Pub quizzes and special tastings.
 ![Event](/02_first_impressions/images_casestudy/event.png)
 *event poster for guests*
