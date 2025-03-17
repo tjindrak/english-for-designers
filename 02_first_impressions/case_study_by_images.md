@@ -3,9 +3,10 @@
 ## I learned how the world works, in both good and bad ways.
 A project that I enjoyed, but also taught me a lot. 
 
-> "Práce pro přátele musí být stále brána jako práce podložena smlouvou"
+> "Working for friends cannot be seen as working for someone "better" and must be supported by a contract."
 
-*Tuto větu si po projektu Polepšovna často opakuji.*
+*I often repeat this sentence to myself after the Polepšovna project. Gee, I wonder why.*
+
 
 But in retrospect, I think that the team building a new concept that is unprecedented in Prague was absolutely great.
 
