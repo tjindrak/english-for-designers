@@ -31,8 +31,14 @@ Meals at the Polepšovna took on a completely different dimension. During the ta
 *Into this!*
 #### Absolutely top hybrid of svíčková and dimsum dumplings
 ![Dim Sum Svíčková](/02_first_impressions/images_casestudy/dimsumsvickova.jpg)
-*Naservírovaná dim sum svíčková*
+*Served dim sum sirloin - svíčková*
 
+## Riding the Wave of Microbreweries
+As small breweries are increasingly on the rise, this is a brewpub offering a variety of beers from small breweries across the country. The primary supplier is Volt Brewery from Jablonec nad Nisou, where most of the Polepšovna team comes from.
+
+### Offer of microbreweries
+![Microbreweries](/02_first_impressions/images_casestudy/Microbreweries.jpeg)
+*board with beer offer*
 
 ## Balance of graphic and construction parts
 It was necessary to work hand-in-hand with the interior architects to create the graphic visuals. Therefore, after the analysis of the interior, lines began to be used as a graphic element that also functions as an orientation system.    
@@ -46,9 +52,9 @@ It was necessary to work hand-in-hand with the interior architects to create the
 ![Lines in graphics](/02_first_impressions/images_casestudy/poster.png)
 *demonstration of the use of navigation lines on the poster*
 
-
 ## Seamless collaboration between designers, architects, and builders to bring ideas to life
-The transformation of the interior from an old warehouse into the space we envisioned took an incredible half a year and involved dozens of people from different sectors.
+The transformation of the interior from an old warehouse into the space we envisioned took an incredible half a year and involved dozens of people from different sectors. An investment of several million has paid off.
+**What do you think?*
 ### Before
 ![Before](/02_first_impressions/images_casestudy/mess.jpg)
 *interior in progress*
@@ -58,12 +64,6 @@ The transformation of the interior from an old warehouse into the space we envis
 *finished interior*
 
 
-## Riding the Wave of Microbreweries
-As small breweries are increasingly on the rise, this is a brewpub offering a variety of beers from small breweries across the country. The primary supplier is Volt Brewery from Jablonec nad Nisou, where most of the Polepšovna team comes from.
-
-### Offer of microbreweries
-![Microbreweries](/02_first_impressions/images_casestudy/Microbreweries.jpeg)
-*board with beer offer*
 
 ## Events in Polepšovna
 Polepšovna is a punk venue where top gastronomy and brewing meet enriched with art and events such as Rehab parties, Pub quizzes and special tastings.
