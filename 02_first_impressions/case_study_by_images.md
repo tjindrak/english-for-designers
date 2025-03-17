@@ -61,11 +61,11 @@ It was necessary to work hand-in-hand with the interior architects to create the
 The interior is created in a clean industrial-punk style. Very often sheet metal, solid wood, black and white paint or, for example, jars are used to fill one wall directly in the lounge. The lighting is elegantly arranged so that it illuminates the ceiling and does not shine in the customer's eyes.
 
 ### Full house at the opening event
-![Full House](/02_first_impressions/images_casestudy/full_house.jpeg)
+![Full House](/02_first_impressions/Images/full_house.jpeg)
 *Wide photo of and opening event – at the tables you can see "excellent" chairs designed by Jan Pelcl*
 
 ### You can see everywhere
-![Kitchen window](/02_first_impressions/images_casestudy/Kitchen_window.jpeg)
+![Kitchen window](/02_first_impressions/Images/Kitchen_window.jpeg)
 *Large window to the open kitchen where meals are finished*
 
 ### Lounge for quieter seating
@@ -75,7 +75,7 @@ The interior is created in a clean industrial-punk style. Very often sheet metal
 ---
 
 # Seamless collaboration between designers, architects, and builders to bring ideas to life
-The transformation of the interior from an old warehouse into the space we envisioned took an incredible half a year and involved dozens of people from different sectors. An investment of several million has paid off.
+The transformation of the interior of the old warehouse into the space we envisioned took an incredible six months and involved dozens of people from different sectors. The multi-million investment paid off.
 **What do you think?*
 ## Before
 ![Before](/02_first_impressions/images_casestudy/mess.jpg)
@@ -88,7 +88,7 @@ The transformation of the interior from an old warehouse into the space we envis
 ---
 
 # Events in Polepšovna
-Polepšovna is a punk venue where top gastronomy and brewing meet enriched with art and events such as Rehab parties, Pub quizzes and special tastings.
+Polepšovna is a punk place where top gastronomy and brewing meet, enriched with art and events like Rehab parties, Pub quizzes and special tastings.
 ![Event](/02_first_impressions/images_casestudy/event.png)
 *event poster for guests*
 
