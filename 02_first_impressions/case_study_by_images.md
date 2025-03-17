@@ -1,5 +1,7 @@
 # **Polepšovna More Than Just a Graphics Project**
 
+---
+
 ## I learned how the world works, in both good and bad ways.
 A project that I enjoyed, but also taught me a lot. 
 
@@ -8,9 +10,9 @@ A project that I enjoyed, but also taught me a lot.
 *I often repeat this sentence to myself after the Polepšovna project. Gee, I wonder why.*
 
 
-But in retrospect, I think the team was absolutely great. We built a concept that hasn't been done in Prague yet.
+But in retrospect? I think the team was absolutely great. We built a concept that hasn't been done in Prague yet.
 
-> Of course, it's good to learn from problems and put them behind us, so...
+> Of course, it's good to learn from problems... but put them behind us, so...
 #### **What exactly is the Polepšovna?**
 
 ---
