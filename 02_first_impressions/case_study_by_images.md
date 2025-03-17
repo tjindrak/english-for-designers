@@ -2,9 +2,13 @@
 
 ## I learned how the world works, in both good and bad ways.
 A project that I enjoyed, but also taught me a lot. 
+
 > "Práce pro přátele musí být stále brána jako práce podložena smlouvou"
+
 *Tuto větu si po projektu Polepšovna často opakuji.*
+
 But in retrospect, I think that the team building a new concept that is unprecedented in Prague was absolutely great.
+
 > Of course, it's good to learn from problems and put them behind us, so...
 #### **What exactly is the Polehouse?**
 
