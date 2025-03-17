@@ -46,16 +46,31 @@ As small breweries are increasingly on the rise, this is a brewpub offering a va
 ---
 
 # Balance of graphic and construction parts
-It was necessary to work hand-in-hand with the interior architects to create the graphic visuals. Therefore, after the analysis of the interior, lines began to be used as a graphic element that also functions as an orientation system.    
-## Interior mockup
-![Mockup interior](/02_first_impressions/images_casestudy/interior.png)
-*mockup of the interior before realization*
-## Navigation lines
+
+It was necessary to work hand-in-hand with the interior architects to create the graphic visuals. Therefore, after the analysis of the interior, lines began to be used as a graphic element that also functions as an orientation system.
+
+### Navigation lines
 ![Lines on the floor](/02_first_impressions/images_casestudy/floor_lines.jpg)
 *demonstration of the use of navigation lines on the floor*
 ### Lines as a graphic element
 ![Lines in graphics](/02_first_impressions/images_casestudy/poster.png)
 *demonstration of the use of navigation lines on the poster*
+
+---
+
+The interior is created in a clean industrial-punk style. Very often sheet metal, solid wood, black and white paint or, for example, jars are used to fill one wall directly in the lounge. The lighting is elegantly arranged so that it illuminates the ceiling and does not shine in the customer's eyes.
+
+### Full house at the opening event
+![Mockup interior](/02_first_impressions/images_casestudy/full_house.jpeg)
+*Wide photo of and opening event – at the tables you can see "excellent" chairs designed by Jan Pelcl*
+
+### You can see everywhere
+![Lines in graphics](/02_first_impressions/images_casestudy/Kitchen_window.jpeg)
+*Large window to the open kitchen where meals are finished*
+
+### Lounge for quieter seating
+![Lines in graphics](/02_first_impressions/images_casestudy/glass_wall.jpeg)
+*LLounge for a quieter sitting. Back wall lined with bottles*
 
 ---
 
