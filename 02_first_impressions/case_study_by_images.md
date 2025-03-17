@@ -61,16 +61,16 @@ It was necessary to work hand-in-hand with the interior architects to create the
 The interior is created in a clean industrial-punk style. Very often sheet metal, solid wood, black and white paint or, for example, jars are used to fill one wall directly in the lounge. The lighting is elegantly arranged so that it illuminates the ceiling and does not shine in the customer's eyes.
 
 ### Full house at the opening event
-![Mockup interior](/02_first_impressions/images_casestudy/full_house.jpeg)
+![Full House](/02_first_impressions/images_casestudy/full_house.jpeg)
 *Wide photo of and opening event – at the tables you can see "excellent" chairs designed by Jan Pelcl*
 
 ### You can see everywhere
-![Lines in graphics](/02_first_impressions/images_casestudy/Kitchen_window.jpeg)
+![Kitchen window](/02_first_impressions/images_casestudy/Kitchen_window.jpeg)
 *Large window to the open kitchen where meals are finished*
 
 ### Lounge for quieter seating
-![Lines in graphics](/02_first_impressions/images_casestudy/glass_wall.jpeg)
-*LLounge for a quieter sitting. Back wall lined with bottles*
+![Lounge](/02_first_impressions/images_casestudy/glass_wall.jpeg)
+*Lounge for a quieter sitting. Back wall lined with bottles*
 
 ---
 
