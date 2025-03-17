@@ -1,8 +1,12 @@
 # Polepšovna More Than Just a Graphics Project
 
 ## I learned how the world works, in both good and bad ways.
-![Bad Experience](/02_first_impressions/images_casestudy/graph@4x.png)
-*graph showing work in relation to pay*
+A project that I enjoyed, but also taught me a lot. 
+> "Práce pro přátele musí být stále brána jako práce podložena smlouvou"
+*Tuto větu si po projektu Polepšovna často opakuji.*
+But in retrospect, I think that the team building a new concept that is unprecedented in Prague was absolutely great.
+> Of course, it's good to learn from problems and put them behind us, so...
+#### **What exactly is the Polehouse?**
 
 
 ## When Two Worlds Collide
