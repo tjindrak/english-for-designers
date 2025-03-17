@@ -15,7 +15,9 @@ But in retrospect, I think the team was absolutely great. We built a concept tha
 
 
 ## Polepšovna – When Two Worlds Collide
-Meals at the Polepšovna took on a completely different dimension. During the tastings I couldn't believe how it was possible to combine Czech and Asian kucyhni. But it was an experience at the tastings and I recommend it to everyone who passes by!
+> It's a place that combines amazing food and microbrews
+
+Meals at the Polepšovna took on a completely different dimension. During the tastings I couldn't believe how it was possible to combine Czech and Asian cuisine. But at the tastings it was a really great experience and I recommend it to anyone passing by!
 ### A small demonstration
 #### Czech traditional Svíčková  
 ![Svíčková](/02_first_impressions/images_casestudy/svickova.jpg)
