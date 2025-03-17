@@ -8,7 +8,7 @@ A project that I enjoyed, but also taught me a lot.
 *I often repeat this sentence to myself after the Polepšovna project. Gee, I wonder why.*
 
 
-But in retrospect, I think that the team building a new concept that is unprecedented in Prague was absolutely great.
+But in retrospect, I think the team was absolutely great. We built a concept that hasn't been done in Prague yet.
 
 > Of course, it's good to learn from problems and put them behind us, so...
 #### **What exactly is the Polehouse?**
