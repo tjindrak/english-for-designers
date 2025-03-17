@@ -11,10 +11,10 @@ A project that I enjoyed, but also taught me a lot.
 But in retrospect, I think the team was absolutely great. We built a concept that hasn't been done in Prague yet.
 
 > Of course, it's good to learn from problems and put them behind us, so...
-#### **What exactly is the Polehouse?**
+#### **What exactly is the Polepšovna?**
 
 
-## When Two Worlds Collide
+## Polepšovna – When Two Worlds Collide
 Meals at the Polepšovna took on a completely different dimension. During the tastings I couldn't believe how it was possible to combine Czech and Asian kucyhni. But it was an experience at the tastings and I recommend it to everyone who passes by!
 ### A small demonstration
 #### Czech traditional Svíčková  
