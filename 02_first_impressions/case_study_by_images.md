@@ -6,20 +6,21 @@
 
 
 ## When Two Worlds Collide
-- Blending two seemingly unrelated concepts to create a groundbreaking experience 
-### Czech traditional Svíčková  
+Meals at the Polepšovna took on a completely different dimension. During the tastings I couldn't believe how it was possible to combine Czech and Asian kucyhni. But it was an experience at the tastings and I recommend it to everyone who passes by!
+### A small demonstration
+#### Czech traditional Svíčková  
 ![Svíčková](/02_first_impressions/images_casestudy/svickova.jpg)
 *czech traditional food - svíčková*
-### Asian traditional DimSum dumplings
+#### Asian traditional DimSum dumplings
 ![Dim Sum](/02_first_impressions/images_casestudy/dimsum.webp)
 *sample of dim sum dumpling*
-### Absolutely top hybrid of svíčková and dimsum dumplings
+#### Absolutely top hybrid of svíčková and dimsum dumplings
 ![Dim Sum Svíčková](/02_first_impressions/images_casestudy/dimsumsvickova.jpg)
 *Naservírovaná dim sum svíčková*
 
 
 ## Balance of graphic and construction parts
-- Finding the perfect balance between aesthetics and structural feasibility    
+It was necessary to work hand-in-hand with the interior architects to create the graphic visuals. Therefore, after the analysis of the interior, lines began to be used as a graphic element that also functions as an orientation system.    
 ### Interior mockup
 ![Mockup interior](/02_first_impressions/images_casestudy/interior.png)
 *mockup of the interior before realization*
