@@ -50,6 +50,9 @@ As small breweries are increasingly on the rise, this is a brewpub offering a va
 ![Microbreweries](/02_first_impressions/images_casestudy/Microbreweries.jpeg)
 *board with beer offer*
 
-### Events in Polepšovna
+## Events in Polepšovna
+Polepšovna is a punk venue where top gastronomy and brewing meet enriched with art and events such as Rehab parties, Pub quizzes and special tastings.
 ![Event](/02_first_impressions/images_casestudy/event.png)
 *event poster for guests*
+
+> Beautiful project in the heart of Holešovice!
