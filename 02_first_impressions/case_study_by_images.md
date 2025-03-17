@@ -19,12 +19,16 @@ But in retrospect, I think the team was absolutely great. We built a concept tha
 
 Meals at the Polepšovna took on a completely different dimension. During the tastings I couldn't believe how it was possible to combine Czech and Asian cuisine. But at the tastings it was a really great experience and I recommend it to anyone passing by!
 ### A small demonstration
+*Imagine mixing Czech sirloin and dim sum dumplings*
+
 #### Czech traditional Svíčková  
 ![Svíčková](/02_first_impressions/images_casestudy/svickova.jpg)
 *czech traditional food - svíčková*
 #### Asian traditional DimSum dumplings
 ![Dim Sum](/02_first_impressions/images_casestudy/dimsum.webp)
 *sample of dim sum dumpling*
+
+*Into this!*
 #### Absolutely top hybrid of svíčková and dimsum dumplings
 ![Dim Sum Svíčková](/02_first_impressions/images_casestudy/dimsumsvickova.jpg)
 *Naservírovaná dim sum svíčková*
