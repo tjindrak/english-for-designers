@@ -40,14 +40,16 @@ What makes the visual identity truly cohesive is how the graphic elements used i
 
 Meals at the Polepšovna took on a completely different dimension. During the tastings I couldn't believe how it was possible to combine Czech and Asian cuisine. But at the tastings it was a really great experience and I recommend it to anyone passing by!
 ### A small demonstration
-*Imagine mixing Czech sirloin and dim sum dumplings*
 
+*Imagine mixing Czech sirloin and dim sum dumplings*
 ![Svíčková](/02_first_impressions/Images_final/Dim_SUM_a_svickova.png)
-*czech traditional food - svíčková* --------- *sample of dim sum dumpling*
+
+*czech traditional food - svíčková* - *sample of dim sum dumpling*
 
 *Into this!*
 #### Absolutely top hybrid of svíčková and dimsum dumplings
 ![Dim Sum Svíčková](/02_first_impressions/Images_final/dimsumsvickova.png)
+
 *Served dim sum sirloin - svíčková*
 
 ---
