@@ -48,6 +48,7 @@ The transformation of the interior of the old warehouse into the space we envisi
 ### Before&After
 
 ![Before](/02_first_impressions/Images_final/Before&After.png)
+
 *interior week before opening event and o progress*
 
 The interior is created in a clean industrial-punk style. Very often sheet metal, solid wood, black and white paint or, for example, jars are used to fill one wall directly in the lounge. The lighting is elegantly arranged so that it illuminates the ceiling and does not shine in the customer's eyes.
@@ -55,16 +56,19 @@ The interior is created in a clean industrial-punk style. Very often sheet metal
 ### Full house at the opening event
 
 ![Full House](/02_first_impressions/Images_final/full_house.png)
+
 *Wide photo of and opening event – at the tables you can see "excellent" chairs designed by Jan Pelcl*
 
 ### You can see everywhere
 
 ![Kitchen window](/02_first_impressions/Images_final/Kitchen_window.png)
+
 *Large window to the open kitchen where meals are finished*
 
 ### Lounge for quieter seating
 
 ![Lounge](/02_first_impressions/Images_final/bottle_wall.png)
+
 *Lounge for a quieter sitting. Back wall lined with bottles*
 
 ---
@@ -81,12 +85,14 @@ Meals at the Polepšovna took on a completely different dimension. During the ta
 *Imagine mixing Czech sirloin and dim sum dumplings*
 
 ![Svíčková](/02_first_impressions/Images_final/Dim_SUM_a_svickova.png)
+
 *czech traditional food - svíčková* - *sample of dim sum dumpling*
 
 *Into this!*
 #### Absolutely top hybrid of svíčková and dimsum dumplings
 
 ![Dim Sum Svíčková](/02_first_impressions/Images_final/dimsumsvickova.png)
+
 *Served dim sum sirloin - svíčková*
 
 ---
@@ -97,6 +103,7 @@ As small breweries are increasingly on the rise, this is a brewpub offering a va
 ### Offer of microbreweries
 
 ![Microbreweries](/02_first_impressions/Images_final/Microbreweries.png)
+
 *board with beer offer*
 
 ---
@@ -105,6 +112,7 @@ As small breweries are increasingly on the rise, this is a brewpub offering a va
 Polepšovna is a punk place where top gastronomy and brewing meet, enriched with art and events like Rehab parties, Pub quizzes and special tastings.
 
 ![Event](/02_first_impressions/Images_final/event.png)
+
 *event poster for guests*
 
 > Beautiful project in the heart of Holešovice!
