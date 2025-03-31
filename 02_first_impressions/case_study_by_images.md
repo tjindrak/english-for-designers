@@ -33,7 +33,34 @@ I connected the visual identity with the interior by incorporating directional l
 ![Lines](/02_first_impressions/Images_final/Lines.png)
 
 ---
+
+## Interior
+
+While the interior design wasn’t my responsibility, it definitely deserves to be mentioned — because without the massive amount of work that went into transforming the old warehouse, there would be no Polepšovna at all. It took months of planning, building, and collaboration between designers, architects, and craftsmen to bring the space to life.
+
+### Seamless collaboration between designers, architects, and builders to bring ideas to life
+The transformation of the interior of the old warehouse into the space we envisioned took an incredible six months and involved dozens of people from different sectors. The multi-million investment paid off.
+**What do you think?*
+### Before&After
+![Before](/02_first_impressions/Images_final/Before&After.png)
+*interior week before opening event and o progress*
+
+The interior is created in a clean industrial-punk style. Very often sheet metal, solid wood, black and white paint or, for example, jars are used to fill one wall directly in the lounge. The lighting is elegantly arranged so that it illuminates the ceiling and does not shine in the customer's eyes.
+
+### Full house at the opening event
+![Full House](/02_first_impressions/Images_final/full_house.png)
+*Wide photo of and opening event – at the tables you can see "excellent" chairs designed by Jan Pelcl*
+
+### You can see everywhere
+![Kitchen window](/02_first_impressions/Images_final/Kitchen_window.png)
+*Large window to the open kitchen where meals are finished*
+
+### Lounge for quieter seating
+![Lounge](/02_first_impressions/Images_final/bottle_wall.png)
+*Lounge for a quieter sitting. Back wall lined with bottles*
+
 ---
+
 ## About Polepšovna
 ---
 ---
@@ -62,33 +89,6 @@ As small breweries are increasingly on the rise, this is a brewpub offering a va
 ### Offer of microbreweries
 ![Microbreweries](/02_first_impressions/Images_final/Microbreweries.png)
 *board with beer offer*
-
----
-
-### Interior
-
-The interior is created in a clean industrial-punk style. Very often sheet metal, solid wood, black and white paint or, for example, jars are used to fill one wall directly in the lounge. The lighting is elegantly arranged so that it illuminates the ceiling and does not shine in the customer's eyes.
-
-### Full house at the opening event
-![Full House](/02_first_impressions/Images_final/full_house.png)
-*Wide photo of and opening event – at the tables you can see "excellent" chairs designed by Jan Pelcl*
-
-### You can see everywhere
-![Kitchen window](/02_first_impressions/Images_final/Kitchen_window.png)
-*Large window to the open kitchen where meals are finished*
-
-### Lounge for quieter seating
-![Lounge](/02_first_impressions/Images_final/glass_wall.png)
-*Lounge for a quieter sitting. Back wall lined with bottles*
-
----
-
-## Seamless collaboration between designers, architects, and builders to bring ideas to life
-The transformation of the interior of the old warehouse into the space we envisioned took an incredible six months and involved dozens of people from different sectors. The multi-million investment paid off.
-**What do you think?*
-### Before&After
-![Before](/02_first_impressions/Images_final/Before&After.png)
-*interior week before opening event and o progress*
 
 ---
 
