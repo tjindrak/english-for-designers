@@ -23,13 +23,13 @@ A significant part of the process was designing a well-functioning and visually 
 ---
 
 ### Social Media
-One of the key challenges was defining the visual style for Instagram. The majority of the content is built around photography, with a clear focus on beer — because beer is at the very heart of Polepšovna. The tone had to reflect the character of the place: bold yet friendly, a bit punk but still approachable.
+One of the key challenges was defining the visual style for Instagram. Beyond the graphic design of printed materials, I also took on the role of content creator and social media manager for Polepšovna. The majority of the content is built around photography, with a clear focus on beer — because beer is at the very heart of Polepšovna. The tone had to reflect the character of the place: bold yet friendly, a bit punk but still approachable.
 ![Instagram posts](/02_first_impressions/Images_final/Instagram.png)
 
 ---
 
 ### Connecting interior and graphics
-What makes the visual identity truly cohesive is how the graphic elements used in the interior — such as directional lines, typography, and industrial textures — are reflected across all touchpoints.
+I connected the visual identity with the interior by incorporating directional lines — graphic elements that also serve as navigation tools within the space. These lines became a key unifying feature, linking the printed materials, digital content, and physical environment into one consistent and recognizable style.
 ![Lines](/02_first_impressions/Images_final/Lines.png)
 
 ---
