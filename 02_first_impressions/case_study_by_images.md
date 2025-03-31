@@ -34,9 +34,11 @@ I connected the visual identity with the interior by incorporating directional l
 
 ---
 ---
-
-## Polepšovna – When Two Worlds Collide
-> It's a place that combines amazing food and microbrews
+## About Polepšovna
+---
+---
+## When Two Worlds Collide
+> Place that combines amazing food and microbrews
 
 Meals at the Polepšovna took on a completely different dimension. During the tastings I couldn't believe how it was possible to combine Czech and Asian cuisine. But at the tastings it was a really great experience and I recommend it to anyone passing by!
 ### A small demonstration
