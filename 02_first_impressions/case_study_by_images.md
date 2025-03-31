@@ -2,20 +2,24 @@
 
 ---
 
-## I learned how the world works, in both good and bad ways.
-A project that I enjoyed, but also taught me a lot. 
+Beer and Czech cuisine — two things that are inseparably tied to our culture. And especially the beer — liquid gold we’re justly proud of. So when the opportunity came to join a project built on these very foundations, I didn’t hesitate for a second. Because Polepšovna isn’t just another Prague pub. It’s a place where Czech classics meet Asian flair, where you can enjoy honest beer from small local breweries, and where you can stop by for a work lunch just as easily as for an evening beer with friends.
 
-> "Working for friends cannot be seen as working for someone "better" and must be supported by a contract."
-
-*I often repeat this sentence to myself after the Polepšovna project. Gee, I wonder why.*
-
-
-But in retrospect? I think the team was absolutely great. We built a concept that hasn't been done in Prague yet.
-
-> Of course, it's good to learn from problems... but put them behind us, so...
-#### **What exactly is the Polepšovna?**
+Polepšovna is a concept that brings something entirely new to the table — a space where flavors, ideas, and people come together to create a vibrant and friendly atmosphere. For me, it was more than just a graphic design project.
 
 ---
+
+## graphics in conjunction with the interior
+The concept was originally created by a well-known graphic studio in collaboration with architects, so the visual identity was already defined to some extent. My role was to further develop this visual direction — both for social media and for various printed materials.
+![Interior](02_first_impressions/images_casestudy/interior_mockup.png)
+
+
+A significant part of the process was designing a well-functioning and visually consistent menu template. Since every good pub thrives on a menu that can evolve and adapt, it was crucial to create a system that allowed for easy and quick updates. Beyond that, I worked on a wide range of printed matter, from posters and flyers to signage and promotional materials.
+![Graphics Materials](02_first_impressions/Images_final/Polepšovna_graphics.png)
+
+One of the key challenges was defining the visual style for Instagram. The majority of the content is built around photography, with a clear focus on beer — because beer is at the very heart of Polepšovna. The tone had to reflect the character of the place: bold yet friendly, a bit punk but still approachable.
+
+What makes the visual identity truly cohesive is how the graphic elements used in the interior — such as directional lines, typography, and industrial textures — are reflected across all touchpoints.
+![Lines](02_first_impressions/Images_final/Lines.png)
 
 ## Polepšovna – When Two Worlds Collide
 > It's a place that combines amazing food and microbrews
