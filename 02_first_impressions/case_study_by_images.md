@@ -8,9 +8,9 @@ Polepšovna is a concept that brings something entirely new to the table — a s
 
 ---
 
-## graphics in conjunction with the interior
+## Graphics in conjunction with the interior
 The concept was originally created by a well-known graphic studio in collaboration with architects, so the visual identity was already defined to some extent. My role was to further develop this visual direction — both for social media and for various printed materials.
-![Interior](/02_first_impressions/images_casestudy/interior_mockup.png)
+![Interior](/02_first_impressions/Images_final/Polepšovna_koncept.png)
 
 
 A significant part of the process was designing a well-functioning and visually consistent menu template. Since every good pub thrives on a menu that can evolve and adapt, it was crucial to create a system that allowed for easy and quick updates. Beyond that, I worked on a wide range of printed matter, from posters and flyers to signage and promotional materials.
