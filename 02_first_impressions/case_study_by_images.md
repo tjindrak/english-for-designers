@@ -67,7 +67,7 @@ The interior is created in a clean industrial-punk style. Very often sheet metal
 
 ### Lounge for quieter seating
 
-![Lounge](/02_first_impressions/Images_final/bottle_wall.png)
+![Lounge](/02_first_impressions/Images_final/Lounge.png)
 
 *Lounge for a quieter sitting. Back wall lined with bottles*
 
