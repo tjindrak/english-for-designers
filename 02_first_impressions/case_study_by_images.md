@@ -52,17 +52,23 @@ The transformation of the interior of the old warehouse into the space we envisi
 
 The interior is created in a clean industrial-punk style. Very often sheet metal, solid wood, black and white paint or, for example, jars are used to fill one wall directly in the lounge. The lighting is elegantly arranged so that it illuminates the ceiling and does not shine in the customer's eyes.
 
+---
+
 ### Full house at the opening event
 
 ![Full House](/02_first_impressions/Images_final/full_house.png)
 
 *Wide photo of and opening event – at the tables you can see "excellent" chairs designed by Jan Pelcl*
 
+---
+
 ### You can see everywhere
 
 ![Kitchen window](/02_first_impressions/Images_final/Kitchen_window.png)
 
 *Large window to the open kitchen where meals are finished*
+
+---
 
 ### Lounge for quieter seating
 
