@@ -74,7 +74,6 @@ The interior is created in a clean industrial-punk style. Very often sheet metal
 ---
 
 ## Food&Drinks
----
 ### When Two Worlds Collide
 > Place that combines amazing food and microbrews
 
