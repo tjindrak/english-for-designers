@@ -1,6 +1,5 @@
 # **Polepšovna More Than Just a Graphics Project**
 
----
 
 Beer and Czech cuisine — two things that are inseparably tied to our culture. And especially the beer — liquid gold we’re justly proud of. So when the opportunity came to join a project built on these very foundations, I didn’t hesitate for a second. Because Polepšovna isn’t just another Prague pub. It’s a place where Czech classics meet Asian flair, where you can enjoy honest beer from small local breweries, and where you can stop by for a work lunch just as easily as for an evening beer with friends.
 
