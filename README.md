@@ -25,3 +25,8 @@ tjindrak 2024
 ## Case study of my project
 
 **[Click Here](03_Case_study/index.md)**
+
+## Story Telling
+
+**[Click Here](04_Story_telling/Story_Telling.md)**
+
