@@ -16,7 +16,7 @@ tjindrak 2024
 
 ## Manifesto Presentation
 
-**[Click Here](/01_Design_Manifesto/Presentation/Slide01.md)**
+**[Click Here](01_Design_Manifesto/Presentation/Slide01.md)**
 
 ## First impression – My bio
 
