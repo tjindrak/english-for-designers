@@ -18,10 +18,10 @@ tjindrak 2024
 
 **[Click Here](/01_Design_Manifesto/Presentation/Slide01.md)**
 
-## My bio
+## First impression – My bio
 
 **[Click Here](/02_first_impressions/Index.md)**
 
-## My Projects
+## Case study of my project
 
-**[Click Here](/02_first_impressions/My_Projects.md)**
+**[Click Here](/03_Case_study/Case_study.md)**
