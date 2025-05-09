@@ -24,4 +24,4 @@ tjindrak 2024
 
 ## Case study of my project
 
-**[Click Here](/03_Case_study/Index.md)**
+**[Click Here](03_Case_study/Index.md)**
