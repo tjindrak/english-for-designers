@@ -20,7 +20,7 @@ tjindrak 2024
 
 ## First impression – My bio
 
-**[Click Here](/02_first_impressions/First_impression.md)**
+**[Click Here](02_first_impressions/First_impression.md)**
 
 ## Case study of my project
 
